@@ -12,7 +12,7 @@ set :keep_releases, 5
 
 # Git parameters with URL to repository (can be local)
 set :scm, :git
-set :repo_url, 'https://git@github.com/merhylstudio/www.git'
+set :repo_url, 'https://git@github.com/merhylstudio/merhylstudio.org.git'
 #ask :branch, 'git rev-parse --abbrev-ref HEAD'.chomp
 set :branch, 'master'
 
