@@ -7,12 +7,9 @@
 <body id="topPage">
 <!-- navbar -->
 <?php include("view/navbar.php"); ?>
-<!-- infos -->
-<?php include("view/topbar.php"); ?>
 <!-- corps -->
 <div class="container-fluid bg-lightblue">
   <div class="text-center">
-      <img class="img-responsive img-rounded bg-nightblue" style="display:inline" src="view/img/merhylstudio.png" alt="merhylstudio" />
     <h1>En construction...</h1>
   </div>
 </div>
